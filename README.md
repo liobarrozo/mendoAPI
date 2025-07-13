@@ -14,15 +14,10 @@ Actualmente devuelve los siguientes datos de cada departamento:
 - Región
 - Superficie
 - Población aproximada (Según ultimo censo)
-- Capital
-- Coordenadas
+- Capital departamental
+- Coordenadas geográficas
 
 
-## Próximamente
-- Intendente actual
-- Atracciones turísticas
-- Producto
-- 
 ## 🔁 Ejemplo de respuesta
 
 ```json
@@ -38,3 +33,8 @@ Actualmente devuelve los siguientes datos de cada departamento:
     "lng": -68.9333
   }
 }
+
+## Próximamente
+- Intendente actual
+- Atracciones turísticas
+- Producto

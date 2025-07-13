@@ -7,6 +7,8 @@ app.use(cors()); // permite que cualquier frontend consuma la API
 app.use('/api/departamentos', departamentosRoutes);
 
 const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => {
+const HOST = '0.0.0.0';
+
+app.listen(PORT, HOST, () => {
   console.log(`✅ MendoAPI corriendo en http://localhost:${PORT}`);
 });

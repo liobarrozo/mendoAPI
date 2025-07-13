@@ -18,6 +18,11 @@ Actualmente devuelve los siguientes datos de cada departamento:
 - Coordenadas
 
 
+## Próximamente
+- Intendente actual
+- Atracciones turísticas
+- Producto
+- 
 ## 🔁 Ejemplo de respuesta
 
 ```json
@@ -33,8 +38,3 @@ Actualmente devuelve los siguientes datos de cada departamento:
     "lng": -68.9333
   }
 }
-
-## Próximamente
-- Intendente actual
-- Atracciones turísticas
-- Producto

@@ -1,0 +1,17 @@
+{
+    "name": "mendoapi",
+    "version": "1.0.0",
+    "description": "API sobre los departamentos de Mendoza, Argentina",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "keywords": ["mendoza", "api", "departamentos", "argentina"],
+    "author": "liobarrozo",
+    "license": "MIT",
+    "dependencies": {
+      "cors": "^2.8.5",
+      "express": "^4.18.2"
+    }
+  }
+  

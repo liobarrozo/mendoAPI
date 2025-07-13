@@ -2,10 +2,17 @@
 
 **MendoAPI** es una API pública que brinda información sobre los 18 departamentos de la provincia de Mendoza, Argentina.
 
+## 🌐 URL base
+
+> https://mendoapi.up.railway.app
+
 ## 📡 Endpoints disponibles
 
-- `GET /api/departamentos` → Lista completa
-- `GET /api/departamentos/:id` → Información completa de un departamento por ID
+### 🔹 Obtener todos los departamentos
+[https://mendoapi.up.railway.app/api/departamentos](https://mendoapi.up.railway.app/api/departamentos)
+
+### 🔹 Obtener un departamento por ID
+[https://mendoapi.up.railway.app/api/departamentos/5](https://mendoapi.up.railway.app/api/departamentos/5)
 
 ## Datos  de departamentos
 Actualmente devuelve los siguientes datos de cada departamento:

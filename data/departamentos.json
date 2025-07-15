@@ -16,6 +16,7 @@
       "superficie_km2": 54,
       "poblacion": 191299,
       "capital": "Godoy Cruz",
+      "intendente": "Diego Costarelli",
       "coordenadas": { "lat": -32.9392, "lng": -68.8575 }
     },
     {
@@ -25,6 +26,7 @@
       "superficie_km2": 164,
       "poblacion": 283803,
       "capital": "Villa Nueva",
+      "intendente": "Marcos Calvente",
       "coordenadas": { "lat": -32.8833, "lng": -68.8167 }
     },
     {
@@ -34,6 +36,7 @@
       "superficie_km2": 8920,
       "poblacion": 204913,
       "capital": "Las Heras",
+      "intendente": "Francisco Lo Presti",
       "coordenadas": { "lat": -32.8333, "lng": -68.8333 }
     },
     {
@@ -43,6 +46,7 @@
       "superficie_km2": 4277,
       "poblacion": 121000,
       "capital": "Luján de Cuyo",
+      "intendente": "Esteban Allasino",
       "coordenadas": { "lat": -33.0417, "lng": -68.9333 }
     },
     {
@@ -52,6 +56,7 @@
       "superficie_km2": 617,
       "poblacion": 178526,
       "capital": "Maipú",
+      "intendente": "Matias Stevanato",
       "coordenadas": { "lat": -32.9667, "lng": -68.7667 }
     },
     {
@@ -61,6 +66,7 @@
       "superficie_km2": 1504,
       "poblacion": 121198,
       "capital": "San Martín",
+      "intendente": "Raúl Rufeil",
       "coordenadas": { "lat": -33.0806, "lng": -68.4694 }
     },
     {
@@ -70,6 +76,7 @@
       "superficie_km2": 263,
       "poblacion": 42651,
       "capital": "Junín",
+      "intendente": "Mario Abed",
       "coordenadas": { "lat": -33.1167, "lng": -68.4667 }
     },
     {
@@ -79,6 +86,7 @@
       "superficie_km2": 2063,
       "poblacion": 59898,
       "capital": "Rivadavia",
+      "intendente": "Ricardo Mansur",
       "coordenadas": { "lat": -33.2, "lng": -68.4833 }
     },
     {
@@ -88,6 +96,7 @@
       "superficie_km2": 8505,
       "poblacion": 16500,
       "capital": "Santa Rosa",
+      "intendente": "Flor Destéfanis",
       "coordenadas": { "lat": -33.3333, "lng": -68.3333 }
     },
     {
@@ -97,6 +106,7 @@
       "superficie_km2": 7178,
       "poblacion": 9800,
       "capital": "La Paz",
+      "intendente": "Fernando Ubieta",
       "coordenadas": { "lat": -33.4667, "lng": -67.5333 }
     },
     {
@@ -106,6 +116,7 @@
       "superficie_km2": 31951,
       "poblacion": 190750,
       "capital": "San Rafael",
+      "intendente": "Omar Félix",
       "coordenadas": { "lat": -34.6179, "lng": -68.3301 }
     },
     {
@@ -115,6 +126,7 @@
       "superficie_km2": 14881,
       "poblacion": 48200,
       "capital": "General Alvear",
+      "intendente": "Jany Molero",
       "coordenadas": { "lat": -34.9667, "lng": -67.6833 }
     },
     {
@@ -124,6 +136,7 @@
       "superficie_km2": 41244,
       "poblacion": 30000,
       "capital": "Malargüe",
+      "intendente": "Celso Jaque",
       "coordenadas": { "lat": -35.475, "lng": -69.5833 }
     },
     {
@@ -133,6 +146,7 @@
       "superficie_km2": 3317,
       "poblacion": 48278,
       "capital": "Tunuyán",
+      "intendente": "Emir Andraos",
       "coordenadas": { "lat": -33.5667, "lng": -69.0167 }
     },
     {
@@ -142,6 +156,7 @@
       "superficie_km2": 8578,
       "poblacion": 33140,
       "capital": "San Carlos",
+      "intendente": "Alejandro Morillas",
       "coordenadas": { "lat": -33.7667, "lng": -69.0167 }
     },
     {
@@ -151,6 +166,7 @@
       "superficie_km2": 2185,
       "poblacion": 33600,
       "capital": "Tupungato",
+      "intendente": "Gustavo Aguilera",
       "coordenadas": { "lat": -33.375, "lng": -69.1667 }
     },
     {
@@ -160,6 +176,7 @@
       "superficie_km2": 10200,
       "poblacion": 39500,
       "capital": "Villa Tulumaya",
+      "intendente": "Edgardo GOnzález",
       "coordenadas": { "lat": -32.5, "lng": -68.5 }
     }
   ]

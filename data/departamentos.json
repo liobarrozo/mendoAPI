@@ -7,6 +7,63 @@
       "poblacion": 115041,
       "capital": "Ciudad de Mendoza",
       "intendente": "Ulpiano Suarez",
+      "atracciones": [
+  {
+    "nombre": "Parque General San Martín",
+    "descripcion": "El parque urbano más grande de Mendoza, con lago, jardines, museos, anfiteatro, estadio y el Cerro de la Gloria.",
+    "tipo": "Parque / Monumento",
+    "ubicacion": { "lat": -32.8965, "lng": -68.8684 }
+  },
+  {
+    "nombre": "Cerro de la Gloria",
+    "descripcion": "Monumento al Ejército de los Andes en la cima del cerro, con vistas panorámicas de la ciudad.",
+    "tipo": "Monumento",
+    "ubicacion": { "lat": -32.8810, "lng": -68.8770 }
+  },
+  {
+    "nombre": "Parque Central",
+    "descripcion": "Espacio verde ubicado en el Barrio Cívico, ideal para caminar, andar en bici o disfrutar eventos al aire libre.",
+    "tipo": "Parque urbano",
+    "ubicacion": { "lat": -32.8885, "lng": -68.8465 }
+  },
+  {
+    "nombre": "Plaza Independencia",
+    "descripcion": "Corazón de la ciudad, con fuentes de aguas danzantes, feria de artesanías y museos subterráneos.",
+    "tipo": "Plaza",
+    "ubicacion": { "lat": -32.8902, "lng": -68.8440 }
+  },
+  {
+    "nombre": "Plaza España",
+    "descripcion": "Plaza histórica con monumento a la confraternidad hispano-argentina y diseño típico de patios españoles.",
+    "tipo": "Plaza",
+    "ubicacion": { "lat": -32.8925, "lng": -68.8455 }
+  },
+  {
+    "nombre": "Basílica de San Francisco",
+    "descripcion": "Iglesia neorrománica construida en 1875, Monumento Nacional, con restos históricos del entorno colonial.",
+    "tipo": "Monumento / Iglesia",
+    "ubicacion": { "lat": -32.8948, "lng": -68.8472 }
+  },
+  {
+    "nombre": "Museo del Área Fundacional",
+    "descripcion": "Museo arqueológico subterráneo en el sitio original de la fundación de la ciudad, con restos del antiguo cabildo.",
+    "tipo": "Museo",
+    "ubicacion": { "lat": -32.8930, "lng": -68.8460 }
+  },
+  {
+    "nombre": "Nave Cultural Mendoza",
+    "descripcion": "Centro cultural ubicado en el antiguo galpón de la estación de trenes, con eventos, exposiciones y actividades al aire libre.",
+    "tipo": "Centro Cultural",
+    "ubicacion": { "lat": -32.8942, "lng": -68.8488 }
+  },
+  {
+    "nombre": "Calle Aristides Villanueva",
+    "descripcion": "Zona de bares y cervecerías artesanales, muy concurrida por la noche.",
+    "tipo": "Zona de ocio",
+    "ubicacion": { "lat": -32.8940, "lng": -68.8390 }
+  }
+      ],
+
       "coordenadas": { "lat": -32.8908, "lng": -68.8272 }
     },
     {
@@ -17,6 +74,69 @@
       "poblacion": 191299,
       "capital": "Godoy Cruz",
       "intendente": "Diego Costarelli",
+      "atracciones": [
+  {
+    "nombre": "Parque Estación Benegas",
+    "descripcion": "Parque y espacio cultural en la vieja estación Gobernador Benegas, con museo ferroviario, circuitos de trote, canchas y ferias.",
+    "tipo": "Parque / Museo",
+    "ubicacion": { "lat": -32.9270, "lng": -68.8420 }
+  },
+  {
+    "nombre": "Museo Ferroviario",
+    "descripcion": "Museo histórico del ferrocarril con maquetas, paneles y objetos restaurados.",
+    "tipo": "Museo",
+    "ubicacion": { "lat": -32.9268, "lng": -68.8418 }
+  },
+  {
+    "nombre": "Cine Teatro Plaza",
+    "descripcion": "Sala histórica inaugurada en 1946, segundo teatro más importante de la provincia.",
+    "tipo": "Teatro / Cultura",
+    "ubicacion": { "lat": -32.9275, "lng": -68.8430 }
+  },
+  {
+    "nombre": "Centro Patrimonial Cristoforo Colombo",
+    "descripcion": "Galería de arte y centro patrimonial en la antigua sede de la Sociedad Italiana, con eventos contemporáneos.",
+    "tipo": "Centro Cultural",
+    "ubicacion": { "lat": -32.9280, "lng": -68.8425 }
+  },
+  {
+    "nombre": "Honorable Concejo Deliberante",
+    "descripcion": "Edificio público más antiguo del departamento, declarado patrimonio histórico.",
+    "tipo": "Monumento / Edificio histórico",
+    "ubicacion": { "lat": -32.9277, "lng": -68.8432 }
+  },
+  {
+    "nombre": "Parador Independencia (Metrotranvía)",
+    "descripcion": "Estación intermedia del Metrotranvía de Mendoza, punto histórico del transporte urbano.",
+    "tipo": "Transporte histórico",
+    "ubicacion": { "lat": -32.9285, "lng": -68.8440 }
+  },
+  {
+    "nombre": "Plaza Tomás Godoy Cruz",
+    "descripcion": "Plaza central cívica e histórica, con monumentos y eventos locales.",
+    "tipo": "Plaza",
+    "ubicacion": { "lat": -32.9270, "lng": -68.8435 }
+  },
+  {
+    "nombre": "Piedemonte de Godoy Cruz",
+    "descripcion": "Zona natural al pie de la montaña, ideal para trekking, cabalgatas y degustar chivo y quesos artesanales.",
+    "tipo": "Naturaleza / Aventura",
+    "ubicacion": { "lat": -32.9150, "lng": -68.8800 }
+  },
+  {
+    "nombre": "Bodega Escorihuela Gascón",
+    "descripcion": "Bodega urbana con visitas guiadas, cava de eventos, sala de arte y degustaciones.",
+    "tipo": "Bodega",
+    "ubicacion": { "lat": -32.9282, "lng": -68.8450 }
+  },
+  {
+    "nombre": "Fiesta Provincial de la Cerveza",
+    "descripcion": "Evento anual con música, cerveza artesanal y ferias gastronómicas en el Espacio Verde.",
+    "tipo": "Evento",
+    "ubicacion": { "lat": -32.9300, "lng": -68.8440 }
+  }
+      ],
+
       "coordenadas": { "lat": -32.9392, "lng": -68.8575 }
     },
     {

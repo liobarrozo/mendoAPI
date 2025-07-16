@@ -45,3 +45,11 @@ Actualmente devuelve los siguientes datos de cada departamento:
 - Intendente actual
 - Atracciones turísticas
 - Producto
+
+
+
+## Licencia
+
+Este proyecto está bajo la Licencia [Creative Commons Atribución-NoComercial 4.0 Internacional](https://creativecommons.org/licenses/by-nc/4.0/).
+
+Esto significa que podés usarlo, compartirlo y adaptarlo con fines no comerciales, siempre mencionando al autor original: [liobarrozo](https://github.com/liobarrozo).

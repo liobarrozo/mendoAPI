@@ -40,6 +40,7 @@ Actualmente devuelve los siguientes datos de cada departamento:
     "lng": -68.9333
   }
 }
+```
 
 ## Próximamente
 - Intendente actual

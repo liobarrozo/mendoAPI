@@ -315,12 +315,12 @@
           }
         },
         {
-          "nombre": "Plaza Departamental de Junín",
-          "descripcion": "Espacio verde central del departamento, lugar de encuentros culturales, ferias y eventos comunitarios.",
+          "nombre": "Parque Agnesi",
+          "descripcion": "Parque urbano con zonas de descanso, actividades deportivas y espectáculos. Espacio verde central del departamento.",
           "tipo": "parque",
           "ubicacion": {
-            "lat": -33.049500,
-            "lng": -68.454300
+            "lat": -33.078776,
+            "lng": -68.466872
           }
         },
         {
@@ -343,6 +343,35 @@
       "poblacion": 42651,
       "capital": "Junín",
       "intendente": "Mario Abed",
+      "atracciones":[
+        {
+          "nombre": "Museo Malvinas Argentinas",
+          "descripcion": "Espacio dedicado a la memoria de los veteranos de Malvinas, con exhibiciones históricas y culturales.",
+          "tipo": "museo",
+          "ubicacion": {
+            "lat": -33.053444,
+            "lng": -68.449885
+          }
+        },
+        {
+          "nombre": "Plaza Departamental de Junín",
+          "descripcion": "Espacio verde central del departamento, lugar de encuentros culturales, ferias y eventos comunitarios.",
+          "tipo": "parque",
+          "ubicacion": {
+            "lat": -33.049500,
+            "lng": -68.454300
+          }
+        },
+        {
+          "nombre": "Bodega El Esteco",
+          "descripcion": "Bodega reconocida que ofrece tours y degustaciones, mostrando la tradición vitivinícola local.",
+          "tipo": "bodega",
+          "ubicacion": {
+            "lat": -33.049210,
+            "lng": -68.455321
+          }
+        }
+      ],      
       "coordenadas": { "lat": -33.1167, "lng": -68.4667 }
     },
     {
@@ -353,6 +382,25 @@
       "poblacion": 59898,
       "capital": "Rivadavia",
       "intendente": "Ricardo Mansur",
+      "atracciones":[{
+        "nombre": "Museo Histórico de Rivadavia",
+        "descripcion": "Museo que exhibe la historia local y regional a través de objetos, fotografías y documentos.",
+        "tipo": "museo",
+        "ubicacion": {
+          "lat": -33.084145,
+          "lng": -68.498012
+        }
+      },
+      {
+        "nombre": "Plaza Departamental de Rivadavia",
+        "descripcion": "Plaza central del departamento, lugar de encuentro para eventos sociales y culturales.",
+        "tipo": "parque",
+        "ubicacion": {
+          "lat": -33.085432,
+          "lng": -68.495321
+        }
+      }
+    ],
       "coordenadas": { "lat": -33.2, "lng": -68.4833 }
     },
     {
@@ -370,7 +418,7 @@
       "nombre": "La Paz",
       "region": "Este",
       "superficie_km2": 7178,
-      "poblacion": 9800,
+      "poblacion": 11931,
       "capital": "La Paz",
       "intendente": "Fernando Ubieta",
       "coordenadas": { "lat": -33.4667, "lng": -67.5333 }

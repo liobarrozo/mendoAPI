@@ -147,6 +147,36 @@
       "poblacion": 283803,
       "capital": "Villa Nueva",
       "intendente": "Marcos Calvente",
+      "atracciones":[
+        {
+          "nombre": "Parque del Acceso Este",
+          "descripcion": "Espacio verde lineal junto al acceso, con bicisenda, bancos y juegos.",
+          "tipo": "parque",
+          "ubicacion": {
+            "lat": -32.890287,
+            "lng": -68.812504
+          }
+        },
+        {
+          "nombre": "Iglesia La Purísima",
+          "descripcion": "Templo histórico inaugurado en 1896, emblema religioso del departamento.",
+          "tipo": "religioso",
+          "ubicacion": {
+            "lat": -32.888687,
+            "lng": -68.812125
+          }
+        },
+        {
+          "nombre": "Parque Unimev",
+          "descripcion": "Espacio verde con juegos, canchas y senderos arbolados, muy concurrido por familias.",
+          "tipo": "parque",
+          "ubicacion": {
+            "lat": -32.888925,
+            "lng": -68.827416
+          }
+        }
+        
+      ],
       "coordenadas": { "lat": -32.8833, "lng": -68.8167 }
     },
     {
@@ -157,6 +187,35 @@
       "poblacion": 204913,
       "capital": "Las Heras",
       "intendente": "Francisco Lo Presti",
+      "atracciones":[
+        {
+          "nombre": "El Challao",
+          "descripcion": "Zona de contacto entre ciudad y precordillera, ideal para caminatas, ciclismo y vistas panorámicas.",
+          "tipo": "natural",
+          "ubicacion": {
+            "lat": -32.824041,
+            "lng": -68.890651
+          }
+        },
+        {
+          "nombre": "Santuario de Lourdes",
+          "descripcion": "Templo religioso de gran importancia local, frecuentado por fieles y visitantes, ubicado en las laderas del cerro.",
+          "tipo": "religioso",
+          "ubicacion": {
+            "lat": -32.822676,
+            "lng": -68.891841
+          }
+        },
+        {
+          "nombre": "Villavicencio",
+          "descripcion": "Reserva natural y sitio histórico, famoso por sus paisajes montañosos, caminos de caracoles y el viejo hotel.",
+          "tipo": "natural",
+          "ubicacion": {
+            "lat": -32.497801,
+            "lng": -69.041279
+          }
+        }
+      ],      
       "coordenadas": { "lat": -32.8333, "lng": -68.8333 }
     },
     {
@@ -167,6 +226,35 @@
       "poblacion": 121000,
       "capital": "Luján de Cuyo",
       "intendente": "Esteban Allasino",
+      "atracciones":[
+        {
+          "nombre": "Bodega Norton",
+          "descripcion": "Una de las bodegas más reconocidas de Mendoza, con visitas guiadas, degustaciones y vista a la Cordillera.",
+          "tipo": "bodega",
+          "ubicacion": {
+            "lat": -33.068754,
+            "lng": -68.929407
+          }
+        },
+        {
+          "nombre": "Potrerillos",
+          "descripcion": "Embalse y zona turística en plena montaña, ideal para deportes acuáticos, senderismo y descanso con vista al dique.",
+          "tipo": "natural",
+          "ubicacion": {
+            "lat": -33.016560,
+            "lng": -69.217920
+          }
+        },
+        {
+          "nombre": "Termas de Cacheuta",
+          "descripcion": "Complejo termal ubicado entre montañas, con piscinas naturales, spa y paisajes únicos.",
+          "tipo": "natural",
+          "ubicacion": {
+            "lat": -33.015227,
+            "lng": -69.095462
+          }
+        }
+      ],      
       "coordenadas": { "lat": -33.0417, "lng": -68.9333 }
     },
     {
@@ -177,6 +265,35 @@
       "poblacion": 178526,
       "capital": "Maipú",
       "intendente": "Matias Stevanato",
+      "atracciones":[
+        {
+          "nombre": "Museo del Vino y la Vendimia",
+          "descripcion": "Museo icónico que homenajea la historia vitivinícola de Mendoza, ubicado en una antigua casona patrimonial.",
+          "tipo": "museo",
+          "ubicacion": {
+            "lat": -32.986676,
+            "lng": -68.791735
+          }
+        },
+        {
+          "nombre": "Bodega La Rural (Museo del Vino)",
+          "descripcion": "Bodega histórica que alberga un museo con una de las colecciones vitivinícolas más completas del país.",
+          "tipo": "bodega",
+          "ubicacion": {
+            "lat": -32.986043,
+            "lng": -68.799249
+          }
+        },
+        {
+          "nombre": "Cristo Rey del Valle",
+          "descripcion": "Monumento religioso sobre una colina con vistas panorámicas, símbolo espiritual del departamento.",
+          "tipo": "religioso",
+          "ubicacion": {
+            "lat": -32.987547,
+            "lng": -68.786057
+          }
+        }
+      ],      
       "coordenadas": { "lat": -32.9667, "lng": -68.7667 }
     },
     {
@@ -187,6 +304,35 @@
       "poblacion": 121198,
       "capital": "San Martín",
       "intendente": "Raúl Rufeil",
+      "atracciones":[
+        {
+          "nombre": "Museo Las Bóvedas",
+          "descripcion": "Sitio histórico donde el General San Martín planificó parte de la campaña libertadora. Monumento nacional.",
+          "tipo": "museo",
+          "ubicacion": {
+            "lat": -33.080441,
+            "lng": -68.469603
+          }
+        },
+        {
+          "nombre": "Plaza Departamental de Junín",
+          "descripcion": "Espacio verde central del departamento, lugar de encuentros culturales, ferias y eventos comunitarios.",
+          "tipo": "parque",
+          "ubicacion": {
+            "lat": -33.049500,
+            "lng": -68.454300
+          }
+        },
+        {
+          "nombre": "Templo del Vino Bonarda Argentino",
+          "descripcion": "Espacio cultural y enoturístico dedicado a la promoción del varietal Bonarda, con degustaciones y eventos.",
+          "tipo": "bodega",
+          "ubicacion": {
+            "lat": -33.081567,
+            "lng": -68.456728
+          }
+        }
+      ],      
       "coordenadas": { "lat": -33.0806, "lng": -68.4694 }
     },
     {

@@ -18,4 +18,25 @@ router.get('/:id', (req, res) => {
   }
 });
 
+app.get('/api/regiones/:region', (req, res) => {
+  const regionParam = req.params.region.toLowerCase();
+
+  // Normalizar las regiones para comparar
+  const normalizar = str => str.trim().toLowerCase();
+
+  const departamentosFiltrados = departamentos.filter(dep =>
+    normalizar(dep.region) === regionParam
+  );
+
+  if (departamentosFiltrados.length === 0) {
+    return res.status(404).json({ error: 'Región no encontrada o sin departamentos registrados' });
+  }
+
+  res.json({
+    region: departamentosFiltrados[0].region,
+    cantidad: departamentosFiltrados.length,
+    departamentos: departamentosFiltrados
+  });
+});
+
 module.exports = router;

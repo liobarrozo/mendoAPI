@@ -25,7 +25,7 @@ router.get('/:id', (req, res) => {
   }
 });
 
-router.get('/api/regiones/:region', (req, res) => {
+router.get('/regiones/:region', (req, res) => {
   const regionParam = req.params.region;
 
   const departamentosFiltrados = departamentos.filter(dep =>

@@ -2,6 +2,13 @@ const express = require('express');
 const router = express.Router();
 const departamentos = require('../data/departamentos.json');
 
+const slugify = str =>
+  str.toLowerCase()
+     .normalize("NFD")
+     .replace(/[\u0300-\u036f]/g, "")
+     .replace(/\s+/g, "-")
+     .trim();
+
 // GET /api/departamentos
 router.get('/', (req, res) => {
   res.json(departamentos);
@@ -19,17 +26,14 @@ router.get('/:id', (req, res) => {
 });
 
 router.get('/api/regiones/:region', (req, res) => {
-  const regionParam = req.params.region.toLowerCase();
-
-  // Normalizar las regiones para comparar
-  const normalizar = str => str.trim().toLowerCase();
+  const regionParam = req.params.region;
 
   const departamentosFiltrados = departamentos.filter(dep =>
-    normalizar(dep.region) === regionParam
+    slugify(dep.region) === regionParam
   );
 
   if (departamentosFiltrados.length === 0) {
-    return res.status(404).json({ error: 'Región no encontrada o sin departamentos registrados' });
+    return res.status(404).json({ error: 'Región no encontrada ' });
   }
 
   res.json({

@@ -18,7 +18,7 @@ router.get('/:id', (req, res) => {
   }
 });
 
-app.get('/api/regiones/:region', (req, res) => {
+router.get('/api/regiones/:region', (req, res) => {
   const regionParam = req.params.region.toLowerCase();
 
   // Normalizar las regiones para comparar

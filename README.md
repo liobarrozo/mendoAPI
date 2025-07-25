@@ -4,15 +4,15 @@
 
 ## 🌐 URL base
 
-> https://mendoapi.up.railway.app
+> https://api.mendoapi.com
 
 ## 📡 Endpoints disponibles
 
 ### 🔹 Obtener todos los departamentos
-[https://mendoapi.up.railway.app/api/departamentos](https://mendoapi.up.railway.app/api/departamentos)
+[https://api.mendoapi.com/api/departamentos](https://api.mendoapi.com/api/departamentos)
 
 ### 🔹 Obtener un departamento por ID
-[https://mendoapi.up.railway.app/api/departamentos/5](https://mendoapi.up.railway.app/api/departamentos/5)
+[https://api.commendoapi.com/api/departamentos/5](https://api.mendoapi.com/api/departamentos/5)
 
 ## Datos  de departamentos
 Actualmente devuelve los siguientes datos de cada departamento:

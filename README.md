@@ -2,6 +2,9 @@
 
 **MendoAPI** es una API pública que brinda información sobre los 18 departamentos de la provincia de Mendoza, Argentina.
 
+[![Hecho en 🇦🇷 Mendoza](https://img.shields.io/badge/Hecho%20en%20🇦🇷-Mendoza-0077cc?style=for-the-badge)](https://mendoapi.com)
+
+
 ## 🌐 URL base
 
 > https://api.mendoapi.com
